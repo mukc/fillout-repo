@@ -1,8 +1,8 @@
-# A quick task to add filtering layer on top of Fillout Form submissions responses
+# A quick task to add a filtering layer on top of Fillout Form submission responses API
 
 Note:
 Make sure you update the API key for Fillout in `.env` file
 
-start app by the command "npm start"
+Start the server by the command "npm start"
 
-You can get the form submissions by reach out out to "http://localhost:3000/responses/{FORM_ID}/filteredResponses" and can send filters as parameters
+You can get the form submission responses by reaching out to "http://localhost:3000/responses/{FORM_ID}/filtered responses" for a specific form ID and can filter the form responses
