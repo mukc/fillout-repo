@@ -5,4 +5,4 @@ Make sure you update the API key for Fillout in `.env` file
 
 Start the server by the command "npm start"
 
-You can get the form submission responses by reaching out to "http://localhost:3000/responses/{FORM_ID}/filtered responses" for a specific form ID and can filter the form responses
+You can get the form submission responses by reaching out to "http://localhost:3000/responses/{FORM_ID}/filteredResponses" for a specific form ID and can filter the form responses
